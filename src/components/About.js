@@ -5,7 +5,7 @@ export default function About
     return (
         <div className='container'>
             <section className='m-5'>
-                <h2 className='text-center'>About Me</h2>
+                <h2 className='text-center'>About</h2>
                 <div className='row m-5'>
                     <div className='col-6'>
                         <div>
